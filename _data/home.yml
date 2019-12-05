@@ -48,10 +48,10 @@ about:
 
 team:
   heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: 
   members:
-    - name: Kay Garland
-      role: Lead Designer
+    - name: Jeff Ricardo
+      role: Owner
       img: img/team/1.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -60,40 +60,8 @@ team:
           url: "#"
         - icon: fa fa-linkedin
           url: "#"
-        
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
-
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
 
 contact:
   heading: Contact Us
