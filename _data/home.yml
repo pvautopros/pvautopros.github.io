@@ -8,17 +8,14 @@ services:
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
-      heading: Hand Wash
-      text: Car washing is often the most overlooked part of your vehicle care regimen. Unfortunately, improper washing is also the cause of almost all scratches and swirls found on your paint.  Here at Ponte Vedra Auto Pros, we obsess over our products and hand wash techniques.  We not only ensure that your vehicle is clean, but our process minimizes the chance of swirls and marring.
-    - icon: fa fa-laptop
       heading: Exterior Detail
-      text: At Ponte Vedra Auto Pros, we offer a variety of exterior details, from routine maintenance to full paint correction and protection.  We 
+      text: Car washing is often the most overlooked part of your vehicle care regimen. Unfortunately, improper washing is also the cause of almost all scratches and swirls found on your paint.  Here at Ponte Vedra Auto Pros, we obsess over our hand wash techniques and the products we use to not only ensure that your vehicle is clean, but to completely minimize the chance of swirls and marring. From routine maintenance, to full paint correction and protection, we offer a variety of exterior detail options.
     - icon: fa fa-lock
       heading: Interior Detail
-      text: You spend countless hours in your vehicle.  Let us transform your 
+      text: With so much of our time spent inside of a car, make sure yours is clean with our interior detailing. Car interiors are riddled with small cracks and crevices that become dirty over time. With our interior detailing not an inch is left untouched. It is our goal to deliver a car as clean and fresh as it was when new. 
     - icon: fa fa-lock
       heading: Ceramic Coating
-      text: Want the ultimate in paint protection?  Ceramic coatings bond with your vehicle's surface to form a glossy and protective barrier that repels water, contaminants and other environmental fallout.  These coatings are generally more durable than polymers found in traditional sealants and waxes, offering longer-lasting protection. 
+      text: Ceramic coatings bond with your vehicle's surface to form a glossy and protective barrier that repels water, contaminants and other environmental fallout.  These coatings are generally more durable than polymers found in traditional sealants and waxes, offering longer-lasting protection. 
 
 portfolio:
   heading: Portfolio
