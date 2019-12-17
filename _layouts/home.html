@@ -30,10 +30,9 @@ layout: default
           {%- for service in site.data.home.services.service -%}
           {% assign ws = '' %}
           <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="{{ service.icon }} fa-stack-1x fa-inverse"></i>
-            </span>
+            <div class="portfolio-hover-content">
+              <img class="img-fluid" src="{{ assets_path }}{{ service.img }}" alt="">
+            </div>
             <h4 class="service-heading">{{ service.heading }}</h4>
             <p class="text-muted">{{ service.text }}</p>
           </div>
@@ -132,7 +131,7 @@ layout: default
           {% assign ws = '' %}
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ member.img }}" alt="">
+              <img class="mx-auto rounded-circle" src="{{ assets_path }}{{ services.img }}" alt="">
               <h4>{{ member.name }}</h4>
               <p class="text-muted">{{ member.role }}</p>
               <ul class="list-inline social-buttons">

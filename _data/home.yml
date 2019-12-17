@@ -1,50 +1,25 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
+  lead-in: "Ponte Vedra Auto Pros"
+  heading: Ponte Vedra's Premiere Vehicle Protection Specialists
   btn: Tell Me More
 
 services:
   heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading:
   service:
-    - icon: fa fa-shopping-cart
+    - img: img/portfolio/exterior-rupes-polish-thumbnail.jpg
       heading: Exterior Detail
-      text: Car washing is often the most overlooked part of your vehicle care regimen. Unfortunately, improper washing is also the cause of almost all scratches and swirls found on your paint.  Here at Ponte Vedra Auto Pros, we obsess over our hand wash techniques and the products we use to not only ensure that your vehicle is clean, but to completely minimize the chance of swirls and marring. From routine maintenance, to full paint correction and protection, we offer a variety of exterior detail options.
-    - icon: fa fa-lock
+      text: Here at Ponte Vedra Auto Pros, we obsess over our hand wash techniques and the products we use to not only ensure that your vehicle is clean, but to completely minimize the chance of swirls and marring. From routine maintenance, to full paint correction and protection, we offer a variety of exterior detail options.
+    - img: img/portfolio/01-interior.jpg
       heading: Interior Detail
       text: With so much of our time spent inside of a car, make sure yours is clean with our interior detailing. Car interiors are riddled with small cracks and crevices that become dirty over time. With our interior detailing not an inch is left untouched. It is our goal to deliver a car as clean and fresh as it was when new. 
-    - icon: fa fa-lock
+    - img: img/portfolio/01-ceramic-thumbnail.jpg
       heading: Ceramic Coating
       text: Ceramic coatings bond with your vehicle's surface to form a glossy and protective barrier that repels water, contaminants and other environmental fallout.  These coatings are generally more durable than polymers found in traditional sealants and waxes, offering longer-lasting protection. 
 
 portfolio:
   heading: Portfolio
   subheading: Lorem ipsum dolor sit amet consectetur.
-
-about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
 
 team:
   heading: Our Amazing Team
